@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Cairo';
+  src: url("./Cairo-Regular.woff2") format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url("./Cairo-SemiBold.woff2") format('woff2');
+  font-weight: medium;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cairo';
+  src: url("./Cairo-Bold.woff2") format('woff2');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+body{
+  font-family: 'Cairo' , sans-serif;
+}
